@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+/*.patch
+*.swp
+*.orig
+*.rej
+*~
+pull-*/
+patch-*/
